@@ -4,6 +4,7 @@
 # Content 
 
 1. Numpy Basics
+2. Pandas Basics
 
    Loading…
    
