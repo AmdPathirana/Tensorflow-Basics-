@@ -32,12 +32,8 @@
  9. TensorFlow Regession Code Along 
  10. TensorFlow Classifiation Code Alng 
  11. Regession Exercise
+ 12.Classification Exercise 
 
-   a. Solution 
-   
- 13.Classification Exercise 
- 
-   a. Solution 
    
 
    Loading…
