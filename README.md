@@ -5,6 +5,9 @@
 
 1. Numpy Basics
 2. Pandas Basics
+3. Data Visualization
+4. SciKit-Learn-Overview
+5. Exercise 
 
    Loading…
    
