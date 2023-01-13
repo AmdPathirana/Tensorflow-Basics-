@@ -20,13 +20,13 @@
    
  7. TensorFlow Basics
 
-   a. TF Basic syntax
-   
-   b. TF Graphs 
-   
-   c. TF Variables 
-   
-   d. TF Placeholders 
+      a. TF Basic syntax
+
+      b. TF Graphs 
+
+      c. TF Variables 
+
+      d. TF Placeholders 
    
  8. TensorFlow Neural Network 
  9. TensorFlow Regession Code Along 
