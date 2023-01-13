@@ -8,6 +8,13 @@
 3. Data Visualization
 4. SciKit-Learn-Overview
 5. Exercise 
+6. Neural Netwrk 
+   a. Neurons and Activation Function 
+   b. Cost Functions 
+   c. Gradient Descent
+   e. Backpropaation 
+   
+
 
    Loading…
    
