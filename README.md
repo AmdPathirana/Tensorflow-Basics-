@@ -9,6 +9,7 @@
 4. SciKit-Learn-Overview
 5. Exercise 
 6. Neural Netwrk 
+
    a. Neurons and Activation Function 
    
    b. Cost Functions
