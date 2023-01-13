@@ -10,8 +10,11 @@
 5. Exercise 
 6. Neural Netwrk 
    a. Neurons and Activation Function 
-   b. Cost Functions 
+   
+   b. Cost Functions
+   
    c. Gradient Descent
+   
    e. Backpropaation 
    
 
